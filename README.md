@@ -1,29 +1,27 @@
-HelloToast - Solution Code
-==========================
+Material Me! - Solution Code)
+=============================
 
-Simple app with two buttons: one to count and one to show a Toast.
-
-Introduction
-------------
-
-This app extends Hello World, showing how to create a basic layout with a
-TextView and Button elements. It also shows how to add onClick handlers
-for the Button elements, how to display text in a TextView, and
-how to show a toast.
+The Material Me! application is a mock Sports information app intended to 
+teach principles of Material Design. It includes Cards with mixed media, 
+including images loaded using the Glide library. It also uses the Floating
+Action Button and Material Design color palettes.
 
 Pre-requisites
 --------------
 
-You need to know:
-- How to open and run apps with Android Studio.
+For this app you should be familiar with:
+* Creating and running apps in Android Studio.
+* Creating and editing elements using the Layout Editor, XML, and 
+  programmatically.
+* Using a RecyclerView to display a list.
+* Using Glide to load images.
+* Using the Material Design palette.
+
 
 Getting Started
 ---------------
 
-1. Download the code.
-2. Open the code in Android Studio.
-3. Run the app.
-
+1. Download and open the app in Android Studio.
 
 License
 -------
