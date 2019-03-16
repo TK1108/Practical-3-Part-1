@@ -1,30 +1,21 @@
-DroidCafeOptions - Solution Code
-================================
+HelloToast - Solution Code
+==========================
 
-App that demonstrates images used as buttons and a floating action button
-to launch a second activity, which demonstrates EditText input controls
-and radio buttons. This version includes options in the options menu of
-the app bar.
+Simple app with two buttons: one to count and one to show a Toast.
 
 Introduction
 ------------
 
-This app created from the Basic Activity template lets a user tap an image
-to make a choice. The app displays a Toast message showing the user’s choice.
-The app also uses an intent so that when the user taps the floating
-action button, it launches the second Activity. The second Activity
-demonstrates EditText input controls and radio buttons. This version
-includes options for the app bar options menu, in which some of the
-options appear as icons in the app bar.
+This app extends Hello World, showing how to create a basic layout with a
+TextView and Button elements. It also shows how to add onClick handlers
+for the Button elements, how to display text in a TextView, and
+how to show a toast.
 
 Pre-requisites
 --------------
 
 You need to know:
-- How to open, build, and run apps with Android Studio.
-- Handling a Button click.
-- Editing an XML layout file.
-- Displaying a Toast message.
+- How to open and run apps with Android Studio.
 
 Getting Started
 ---------------
