@@ -1,27 +1,36 @@
-Material Me! - Solution Code)
-=============================
+DroidCafeInput - Solution Code
+==============================
 
-The Material Me! application is a mock Sports information app intended to 
-teach principles of Material Design. It includes Cards with mixed media, 
-including images loaded using the Glide library. It also uses the Floating
-Action Button and Material Design color palettes.
+App that demonstrates images used as buttons and a floating action button
+to launch a second activity, which demonstrates EditText input controls,
+radio buttons, and a spinner.
+
+Introduction
+------------
+
+This app created from the Basic Activity template lets a user tap an image
+to make a choice. The app displays a Toast message showing the user’s choice.
+The app also uses an intent so that when the user taps the floating
+action button, it launches the second Activity. The second Activity
+demonstrates EditText input controls, radio buttons, and a spinner
+for entering the label for a phone number.
 
 Pre-requisites
 --------------
 
-For this app you should be familiar with:
-* Creating and running apps in Android Studio.
-* Creating and editing elements using the Layout Editor, XML, and 
-  programmatically.
-* Using a RecyclerView to display a list.
-* Using Glide to load images.
-* Using the Material Design palette.
-
+You need to know:
+- How to open, build, and run apps with Android Studio.
+- Handling a Button click.
+- Editing an XML layout file.
+- Displaying a Toast message.
 
 Getting Started
 ---------------
 
-1. Download and open the app in Android Studio.
+1. Download the code.
+2. Open the code in Android Studio.
+3. Run the app.
+
 
 License
 -------
